@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.irving.WebApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.415 s <<< FAILURE! - in com.irving.WebApplicationTests
+contextLoads(com.irving.WebApplicationTests)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/springframework/boot/bind/RelaxedDataBinder
+Caused by: java.lang.ClassNotFoundException: org.springframework.boot.bind.RelaxedDataBinder
+

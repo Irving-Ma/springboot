@@ -1,0 +1,82 @@
+##**spring cloud-admin**<br>
+springboot为服务管理中心
+
+环境：JDK1.8 
+
+注意：spring boot admin工程需至少运行于JDK8环境
+```
+ <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <java.version>1.8</java.version>
+  </properties>
+```
+
+##集成步骤：
+
+###1、创建admin微服务<br>
+###2、在启动类行添加注解：
+```
+ @Configuration
+ @EnableAutoConfiguration
+ @EnableDiscoveryClient
+ @EnableAdminServer
+```
+###3、添加配置文件，此处省略<br>
+###4、pom文件依赖包
+```
+<dependency>
+    <groupId>org.springframework.cloud</groupId>
+     <artifactId>spring-cloud-starter-eureka</artifactId>
+</dependency>
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-actuator</artifactId>
+</dependency> 
+<dependency>
+    <groupId>de.codecentric</groupId>
+    <artifactId>spring-boot-admin-server</artifactId>
+    <version>1.4.6</version>
+</dependency>
+<dependency>
+    <groupId>de.codecentric</groupId>
+    <artifactId>spring-boot-admin-server-ui</artifactId>
+    <version>1.4.6</version>
+</dependency>
+<dependency>
+    <groupId>org.jolokia</groupId>
+    <artifactId>jolokia-core</artifactId>
+</dependency> 
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-mail</artifactId>
+</dependency>
+```
+###5、在需要被管理的服务中添加注解<br>
+```
+@EnableDiscoveryClient
+```
+###6、在被管理服务中添加依赖
+```
+<dependency>
+    <groupId>org.springframework.cloud</groupId>
+    <artifactId>spring-cloud-starter-zipkin</artifactId>
+</dependency>
+<dependency>
+    <groupId>org.jolokia</groupId>
+    <artifactId>jolokia-core</artifactId>
+</dependency>
+```
+###7、在被管理服务的日志文件中添加如下，用来在控制台获取日志
+```
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/base.xml"/>
+    <jmxConfigurator/>
+</configuration>
+```
+###8、在被管理服务中添加配置<br>
+#####不使用密码账户
+```
+management.security.enabled=false
+```
+###9、启动服务及admin服务，访问admin服务
+
