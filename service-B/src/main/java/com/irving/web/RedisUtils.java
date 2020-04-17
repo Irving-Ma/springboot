@@ -19,7 +19,7 @@ public class RedisUtils {
     private static JedisPool jedisPool = null;
 
     /** Redis服务器IP */
-    private static String host="192.168.1.115";
+    private static String host="localhost";
     /** Redis的端口号 */
     private static int port=6379;
     /** 访问密码 */

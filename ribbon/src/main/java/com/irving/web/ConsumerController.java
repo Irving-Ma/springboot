@@ -17,9 +17,11 @@ public class ConsumerController {
     @Autowired  
     private LoadBalancerClient loadBalancerClient;  
 
+
     @RequestMapping(value = "/add", method = RequestMethod.GET)
     public String add(@RequestParam Integer a,@RequestParam Integer b) {
-    	this.loadBalancerClient.choose("service-B");//随机访问策略
+        //随机访问策略
+    	this.loadBalancerClient.choose("service-B");
         return restTemplate.getForEntity("http://service-B/add?a="+a+"&b="+b, String.class).getBody();
     	
     }

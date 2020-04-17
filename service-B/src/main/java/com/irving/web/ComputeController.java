@@ -1,5 +1,7 @@
 package com.irving.web;
 
+import java.util.Timer;
+import java.util.TimerTask;
 import java.util.concurrent.atomic.AtomicLong;
 
 import org.apache.log4j.Logger;
@@ -34,29 +36,29 @@ public class ComputeController {
     @Autowired
     private DiscoveryClient client;
     
-//    static{
-//        Timer timer = new Timer();
-//        timer.schedule(new TimerTask(){
-//          @Override
-//          public void run() {
-//        	  num.set(0);;
-//          }
-//        }, 0, timeRound);
-//    }
+    static{
+        Timer timer = new Timer();
+        timer.schedule(new TimerTask(){
+          @Override
+          public void run() {
+        	  num.set(0);;
+          }
+        }, 0, timeRound);
+    }
 
     @RequestMapping(value = "/add" ,method = RequestMethod.GET)
     public String add(@RequestParam Integer a, @RequestParam Integer b) {
     	
-//        num.incrementAndGet();
-//        
-//        if (num.get() <= flag) {
-//	        ServiceInstance instance = client.getLocalServiceInstance();
-//	        Integer r = a + b;
-//	        logger.info("/add, host:" + instance.getHost() + ", service_id:" + instance.getServiceId() + ", result:" + r);
-//	        return "From Service-B, Result is " + r+"\nPort:"+instance.getPort();
-//        }
-//        return "调用次数超限，一分钟内最多只能调用10次！";
-    	InterfaceLimit limit = service.getEntityByPri(1);
+        num.incrementAndGet();
+
+        if (num.get() <= flag) {
+	        ServiceInstance instance = client.getLocalServiceInstance();
+	        Integer r = a + b;
+	        logger.info("/add, host:" + instance.getHost() + ", service_id:" + instance.getServiceId() + ", result:" + r);
+	        return "From Service-B-7075, Result is " + r+"\nPort:"+instance.getPort();
+        }
+        return "调用次数超限，一分钟内最多只能调用10次！";
+    	/*InterfaceLimit limit = service.getEntityByPri(1);
     	Jedis jedis = RedisUtils.getJedis();
     	
     	//redis存的超时时间
@@ -81,7 +83,7 @@ public class ComputeController {
 	        logger.info("/add, host:" + instance.getHost() + ", service_id:" + instance.getServiceId() + ", result:" + r);
 	        return "From Service-B, Result is " + r+"\nPort:"+instance.getPort();
         }
-        return "调用次数超限！";
+        return "调用次数超限！";*/
     }
 
 }

@@ -20,19 +20,23 @@ public class ComputeController {
     @Autowired
     private DiscoveryClient client;
 
-    @RequestMapping(value = "/**" ,method = RequestMethod.GET)
-    public String add(@RequestParam Integer a, @RequestParam Integer b,HttpServletRequest request) {
-    	System.out.println(request.getRequestURL());
+    @RequestMapping(value = "/add" ,method = RequestMethod.GET)
+    public String add(@RequestParam Integer a, @RequestParam Integer b) {
         ServiceInstance instance = client.getLocalServiceInstance();
         Integer r = a + b;
         logger.info("/add, host:" + instance.getHost() + ", service_id:" + instance.getServiceId() + ", result:" + r);
-        return "From Service-B, Result is " + r+"\nPort:"+instance.getPort();
+        return "From Service-B-7076, Result is " + r+"\nPort:"+instance.getPort();
     }
 
-    //B服务调用A服务
+    /**
+     * 服务B调用A服务
+     * @param a
+     * @param b
+     * @return
+     */
     @RequestMapping(value="testServiceA",method=RequestMethod.GET)
     public String testServiceB(@RequestParam Integer a,@RequestParam Integer b){
     	RestTemplate restTemplate=new RestTemplate();
-    	return restTemplate.getForObject("http://localhost:7074/add?a="+a+"&b="+b, String.class);
+    	return restTemplate.getForObject("http://service-A/add?a="+a+"&b="+b, String.class);
     }
 }

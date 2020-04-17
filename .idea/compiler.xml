@@ -9,16 +9,14 @@
         <module name="ribbon" />
         <module name="config-server" />
         <module name="sleuth" />
-        <module name="turbine" />
-        <module name="service-admin" />
         <module name="feign" />
-        <module name="zuul" />
+        <module name="service-admin" />
         <module name="eureka-sever" />
         <module name="service-B2" />
-        <module name="hystrix-feign" />
+        <module name="service-web" />
         <module name="hystrix-ribbon" />
         <module name="hystrix-dashboard" />
-        <module name="service-web" />
+        <module name="hystrix-feign" />
         <module name="service-B" />
         <module name="service-A" />
       </profile>

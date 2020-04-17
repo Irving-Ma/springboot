@@ -1,0 +1,577 @@
+2019-08-02 00:00:07.373 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:05:07.417 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:05:08.648 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:05:10.137 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 00:10:07.431 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:10:30.836 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:10:32.304 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 00:15:07.446 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:15:53.043 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:15:54.509 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 00:20:07.460 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:21:15.435 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:21:16.917 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 00:25:07.474 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:26:37.459 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:26:38.973 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 00:30:07.489 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:31:59.418 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:32:00.893 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 00:35:07.504 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:37:21.453 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:37:22.925 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 00:40:07.518 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:42:43.378 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:42:44.852 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 00:45:07.531 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:48:05.521 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:48:07.004 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 00:50:07.546 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:53:27.676 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:53:29.148 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 00:55:07.562 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 00:58:49.796 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 00:58:51.264 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:00:07.577 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:04:11.873 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:04:13.361 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:05:07.591 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:09:34.022 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:09:35.495 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:10:07.605 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:14:56.000 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:14:57.468 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:15:07.619 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:20:07.634 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:20:18.118 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:20:19.601 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:25:07.648 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:25:40.359 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:25:41.822 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:30:07.663 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:31:02.497 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:31:03.971 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:35:07.678 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:36:24.668 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:36:26.134 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:40:07.693 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:41:46.615 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:41:48.097 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:45:07.706 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:47:08.630 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:47:10.097 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:50:07.722 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:52:30.795 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:52:32.271 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 01:55:07.738 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 01:57:52.972 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 01:57:54.443 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:00:07.752 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:03:15.080 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:03:16.544 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:05:07.766 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:08:37.794 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:08:39.311 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:10:07.781 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:13:59.722 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:14:01.205 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:15:07.795 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:19:21.918 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:19:23.399 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:20:07.809 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:24:43.915 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:24:45.394 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:25:07.824 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:30:06.018 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:30:07.492 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:30:07.838 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:35:07.852 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:35:28.509 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:35:29.978 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:40:07.867 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:40:50.397 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:40:51.878 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:45:07.881 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:46:12.474 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:46:13.941 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:50:07.895 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:51:34.590 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:51:36.071 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 02:55:07.910 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 02:56:56.731 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 02:56:58.221 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:00:07.925 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:02:18.872 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:02:20.348 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:05:07.939 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:07:40.948 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:07:42.431 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:10:07.952 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:13:03.011 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:13:04.480 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:15:07.966 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:18:25.143 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:18:26.618 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:20:07.982 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:23:47.246 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:23:48.708 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:25:08.002 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:29:09.346 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:29:10.834 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:30:08.016 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:34:31.565 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:34:33.039 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:35:08.029 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:39:53.635 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:39:55.113 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:40:08.051 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:45:08.066 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:45:15.754 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:45:17.235 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:50:08.080 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:50:37.962 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:50:39.450 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 03:55:08.093 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 03:56:00.294 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 03:56:01.792 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:00:08.107 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:01:22.486 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:01:23.968 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:05:08.127 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:06:44.568 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:06:46.031 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:10:08.144 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:12:07.510 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:12:08.974 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:15:08.165 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:17:29.546 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:17:31.021 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:20:08.186 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:22:51.622 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:22:53.090 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:25:08.201 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:28:13.781 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:28:15.255 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:30:08.216 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:33:35.906 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:33:37.415 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:35:08.230 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:38:58.147 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:38:59.617 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:40:08.245 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:44:20.216 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:44:21.701 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:45:08.259 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:49:42.191 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:49:43.677 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:50:08.274 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 04:55:05.373 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 04:55:06.848 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 04:55:08.288 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:00:08.302 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:00:27.571 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:00:29.049 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:05:08.316 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:05:49.687 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:05:51.163 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:10:08.331 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:11:11.824 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:11:13.305 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:15:08.345 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:16:33.837 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:16:35.304 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:20:08.360 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:21:55.912 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:21:57.383 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:25:08.374 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:27:17.930 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:27:19.406 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:30:08.388 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:32:40.106 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:32:41.580 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:35:08.402 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:38:02.316 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:38:03.789 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:40:08.416 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:43:24.404 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:43:25.880 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:45:08.429 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:48:46.444 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:48:47.922 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:50:08.443 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:54:08.484 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:54:09.953 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 05:55:08.457 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 05:59:30.475 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 05:59:31.942 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:00:08.471 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:04:52.477 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:04:53.946 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:05:08.485 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:10:08.498 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:10:14.396 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:10:15.861 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:15:08.519 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:15:36.501 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:15:37.980 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:20:08.533 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:20:58.560 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:21:00.038 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:25:08.547 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:26:20.649 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:26:22.123 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:30:08.561 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:31:42.584 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:31:44.054 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:35:08.575 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:37:04.796 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:37:06.271 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:40:08.589 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:42:26.811 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:42:28.281 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:45:08.603 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:47:48.826 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:47:50.292 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:50:08.616 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:53:10.819 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:53:12.299 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 06:55:08.631 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 06:58:33.049 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 06:58:34.515 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:00:08.645 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:03:55.228 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:03:56.686 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:05:08.660 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:09:17.719 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:09:19.201 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:10:08.673 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:14:39.643 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:14:41.108 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:15:08.687 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:20:01.609 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:20:03.074 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:20:08.701 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:25:08.715 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:25:23.692 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:25:25.160 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:30:08.728 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:30:45.726 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:30:47.215 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:35:08.743 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:36:07.669 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:36:09.137 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:40:08.757 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:41:29.742 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:41:31.217 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:45:08.770 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:46:51.913 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:46:53.392 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:50:08.784 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:52:13.874 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:52:15.338 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 07:55:08.797 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 07:57:35.780 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 07:57:37.244 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:00:08.811 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:02:57.748 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:02:59.227 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:05:08.825 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:08:19.750 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:08:21.223 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:10:08.839 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:13:41.828 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:13:43.291 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:15:08.854 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:19:04.287 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:19:05.753 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:20:08.869 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:24:04.603 [http-nio-7074-exec-1] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:24:06.074 [http-nio-7074-exec-1] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:25:08.883 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:29:26.500 [http-nio-7074-exec-3] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:29:27.973 [http-nio-7074-exec-3] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:30:08.896 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:34:48.710 [http-nio-7074-exec-7] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:34:50.184 [http-nio-7074-exec-7] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:35:08.910 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:40:08.923 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:40:10.619 [http-nio-7074-exec-2] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:40:12.112 [http-nio-7074-exec-2] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:45:08.936 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:45:18.475 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:45:19.970 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:50:08.950 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:50:18.490 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:50:19.973 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 08:55:08.965 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 08:55:18.504 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 08:55:19.993 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:00:08.979 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:00:18.508 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:00:19.984 [http-nio-7074-exec-8] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:05:08.995 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:05:31.932 [http-nio-7074-exec-4] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:05:33.428 [http-nio-7074-exec-4] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:10:09.009 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:10:48.524 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:10:50.014 [http-nio-7074-exec-10] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:15:09.023 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:16:01.990 [http-nio-7074-exec-2] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:16:03.479 [http-nio-7074-exec-2] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:20:09.031 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:21:18.499 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:21:19.982 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:25:09.045 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:26:18.515 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:26:19.999 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:30:09.060 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:31:18.518 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:31:20.007 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:35:09.078 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:36:32.006 [http-nio-7074-exec-7] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:36:33.489 [http-nio-7074-exec-7] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:40:09.096 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:41:48.520 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:41:50.001 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:45:09.116 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:46:48.571 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:46:50.264 [http-nio-7074-exec-6] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:50:09.125 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 09:52:02.008 [http-nio-7074-exec-3] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 09:52:03.495 [http-nio-7074-exec-3] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 09:55:09.134 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 16:59:52.295 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext -Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@46fac10: startup date [Fri Aug 02 16:59:52 CST 2019]; root of context hierarchy
+2019-08-02 16:59:53.029 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-02 16:59:53.087 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$9d3ebd9f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 16:59:55.147 [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 16:59:57.282 [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 16:59:57.286 [main] INFO  o.s.c.b.c.PropertySourceBootstrapConfiguration -Located property source: CompositePropertySource [name='configService', propertySources=[MapPropertySource [name='classpath:/irving-dev.properties'], MapPropertySource [name='classpath:/irving.properties']]]
+2019-08-02 16:59:57.441 [main] INFO  com.irving.A_Application -No active profile set, falling back to default profiles: default
+2019-08-02 16:59:57.463 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext -Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@603b4891: startup date [Fri Aug 02 16:59:57 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@46fac10
+2019-08-02 16:59:59.228 [main] INFO  o.s.cloud.context.scope.GenericScope -BeanFactory id=bc40b41e-67c2-3f4a-aaa7-4ef94a0f44fa
+2019-08-02 16:59:59.257 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-02 16:59:59.396 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'org.springframework.cloud.sleuth.instrument.async.AsyncDefaultAutoConfiguration$DefaultAsyncConfigurerSupport' of type [org.springframework.cloud.sleuth.instrument.async.AsyncDefaultAutoConfiguration$DefaultAsyncConfigurerSupport$$EnhancerBySpringCGLIB$$be665865] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 16:59:59.971 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$9d3ebd9f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 17:00:00.969 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat initialized with port(s): 7074 (http)
+2019-08-02 17:00:00.998 [main] INFO  o.a.catalina.core.StandardService -Starting service Tomcat
+2019-08-02 17:00:01.004 [main] INFO  o.a.catalina.core.StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.11
+2019-08-02 17:00:01.298 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-08-02 17:00:01.300 [localhost-startStop-1] INFO  o.s.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 3837 ms
+2019-08-02 17:00:02.466 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'metricsFilter' to: [/*]
+2019-08-02 17:00:02.473 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-08-02 17:00:02.474 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'traceFilter' to: [/*]
+2019-08-02 17:00:02.474 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-08-02 17:00:02.474 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-08-02 17:00:02.480 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'requestContextFilter' to: [/*]
+2019-08-02 17:00:02.481 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2019-08-02 17:00:02.481 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'applicationContextIdFilter' to: [/*]
+2019-08-02 17:00:02.481 [localhost-startStop-1] INFO  o.s.b.w.s.ServletRegistrationBean -Mapping servlet: 'dispatcherServlet' to [/]
+2019-08-02 17:00:04.025 [main] INFO  o.s.cloud.commons.util.InetUtils -Cannot determine local hostname
+2019-08-02 17:00:05.567 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -jolokia: No access restrictor found, access to any MBean is allowed
+2019-08-02 17:00:06.052 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter -Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@603b4891: startup date [Fri Aug 02 16:59:57 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@46fac10
+2019-08-02 17:00:06.342 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/add],methods=[GET]}" onto public java.lang.String com.irving.web.ComputeController.add(java.lang.Integer,java.lang.Integer)
+2019-08-02 17:00:06.348 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/testServiceB],methods=[GET]}" onto public java.lang.String com.irving.web.ComputeController.testServiceB(java.lang.Integer,java.lang.Integer)
+2019-08-02 17:00:06.348 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/from]}" onto public java.lang.String com.irving.web.TestController.from()
+2019-08-02 17:00:06.357 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-08-02 17:00:06.358 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-08-02 17:00:06.521 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-02 17:00:06.521 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-02 17:00:06.626 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-02 17:00:07.840 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.846 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+2019-08-02 17:00:07.846 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.847 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+2019-08-02 17:00:07.849 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/restart || /restart.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.context.restart.RestartMvcEndpoint.invoke()
+2019-08-02 17:00:07.849 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.context.environment.EnvironmentManagerMvcEndpoint.value(java.util.Map<java.lang.String, java.lang.String>)
+2019-08-02 17:00:07.850 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env/reset],methods=[POST]}" onto public java.util.Map<java.lang.String, java.lang.Object> org.springframework.cloud.context.environment.EnvironmentManagerMvcEndpoint.reset()
+2019-08-02 17:00:07.850 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/pause || /pause.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()
+2019-08-02 17:00:07.851 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+2019-08-02 17:00:07.856 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.858 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/resume || /resume.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()
+2019-08-02 17:00:07.859 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.859 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.861 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.862 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/refresh || /refresh.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()
+2019-08-02 17:00:07.863 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/features || /features.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.863 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.868 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.869 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.870 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/jolokia/**]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.actuate.endpoint.mvc.JolokiaMvcEndpoint.handle(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2019-08-02 17:00:07.871 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/archaius || /archaius.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.872 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
+2019-08-02 17:00:07.874 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
+2019-08-02 17:00:07.874 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
+2019-08-02 17:00:07.875 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:00:07.876 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
+2019-08-02 17:00:08.294 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
+2019-08-02 17:00:08.294 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-02 17:00:08.304 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
+2019-08-02 17:00:08.304 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-02 17:00:08.584 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler -Initializing ExecutorService 
+2019-08-02 17:00:08.870 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Registering beans for JMX exposure on startup
+2019-08-02 17:00:08.890 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-08-02 17:00:08.896 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-08-02 17:00:08.899 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-08-02 17:00:08.899 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'refreshEndpoint' has been autodetected for JMX exposure
+2019-08-02 17:00:08.900 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'restartEndpoint' has been autodetected for JMX exposure
+2019-08-02 17:00:08.906 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-08-02 17:00:08.955 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'restartEndpoint': registering with JMX server as MBean [org.springframework.cloud.context.restart:name=restartEndpoint,type=RestartEndpoint]
+2019-08-02 17:00:08.970 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-08-02 17:00:08.984 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=603b4891,type=ConfigurationPropertiesRebinder]
+2019-08-02 17:00:08.992 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'refreshEndpoint': registering with JMX server as MBean [org.springframework.cloud.endpoint:name=refreshEndpoint,type=RefreshEndpoint]
+2019-08-02 17:00:09.379 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -jolokia: No access restrictor found, access to any MBean is allowed
+2019-08-02 17:00:09.385 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=16cfe5ec-d9d6-406d-82fa-4ca158bbe579, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2019-08-02 17:00:09.386 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2019-08-02 17:00:09.386 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2019-08-02 17:00:09.451 [main] INFO  o.s.c.s.DefaultLifecycleProcessor -Starting beans in phase 0
+2019-08-02 17:00:09.468 [main] INFO  o.s.c.n.eureka.InstanceInfoFactory -Setting initial instance status as: STARTING
+2019-08-02 17:00:09.727 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
+2019-08-02 17:00:09.735 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
+2019-08-02 17:00:09.956 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
+2019-08-02 17:00:09.956 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
+2019-08-02 17:00:10.310 [main] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 17:00:10.584 [main] INFO  c.netflix.discovery.DiscoveryClient -Disable delta property : false
+2019-08-02 17:00:10.590 [main] INFO  c.netflix.discovery.DiscoveryClient -Single vip registry refresh property : null
+2019-08-02 17:00:10.590 [main] INFO  c.netflix.discovery.DiscoveryClient -Force full registry fetch : false
+2019-08-02 17:00:10.590 [main] INFO  c.netflix.discovery.DiscoveryClient -Application is null : false
+2019-08-02 17:00:10.595 [main] INFO  c.netflix.discovery.DiscoveryClient -Registered Applications size is zero : true
+2019-08-02 17:00:10.595 [main] INFO  c.netflix.discovery.DiscoveryClient -Application version is -1: true
+2019-08-02 17:00:10.596 [main] INFO  c.netflix.discovery.DiscoveryClient -Getting all instance registry info from the eureka server
+2019-08-02 17:00:10.909 [main] INFO  c.netflix.discovery.DiscoveryClient -The response status is 200
+2019-08-02 17:00:10.911 [main] INFO  c.netflix.discovery.DiscoveryClient -Starting heartbeat executor: renew interval is: 30
+2019-08-02 17:00:10.955 [main] INFO  c.n.discovery.InstanceInfoReplicator -InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-08-02 17:00:10.960 [main] INFO  c.netflix.discovery.DiscoveryClient -Discovery Client initialized at timestamp 1564736410960 with initial instances count: 2
+2019-08-02 17:00:11.086 [main] INFO  o.s.c.n.e.EurekaDiscoveryClientConfiguration -Registering application service-A with eureka with status UP
+2019-08-02 17:00:11.093 [main] INFO  c.netflix.discovery.DiscoveryClient -Saw local status change event StatusChangeEvent [timestamp=1564736411093, current=UP, previous=STARTING]
+2019-08-02 17:00:11.096 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient -DiscoveryClient_SERVICE-A/localhost:service-A:7074: registering service...
+2019-08-02 17:00:11.193 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient -DiscoveryClient_SERVICE-A/localhost:service-A:7074 - registration status: 204
+2019-08-02 17:00:11.346 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat started on port(s): 7074 (http)
+2019-08-02 17:00:11.347 [main] INFO  o.s.c.n.e.EurekaDiscoveryClientConfiguration -Updating port to 7074
+2019-08-02 17:00:11.354 [main] INFO  com.irving.A_Application -Started A_Application in 21.972 seconds (JVM running for 35.541)
+2019-08-02 17:00:11.693 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 17:00:13.162 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 17:00:33.388 [http-nio-7074-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-08-02 17:00:33.393 [http-nio-7074-exec-1] INFO  o.s.web.servlet.DispatcherServlet -FrameworkServlet 'dispatcherServlet': initialization started
+2019-08-02 17:00:33.443 [http-nio-7074-exec-1] INFO  o.s.web.servlet.DispatcherServlet -FrameworkServlet 'dispatcherServlet': initialization completed in 47 ms
+2019-08-02 17:05:10.599 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 17:05:13.260 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 17:05:14.820 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 17:10:10.602 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 17:10:23.268 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 17:10:24.927 [http-nio-7074-exec-5] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 17:39:23.695 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext -Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@57d6ac42: startup date [Fri Aug 02 17:39:23 CST 2019]; root of context hierarchy
+2019-08-02 17:39:24.397 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-02 17:39:24.457 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$bfa21cf2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 17:39:26.458 [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 17:39:28.571 [main] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 17:39:28.576 [main] INFO  o.s.c.b.c.PropertySourceBootstrapConfiguration -Located property source: CompositePropertySource [name='configService', propertySources=[MapPropertySource [name='classpath:/irving-dev.properties'], MapPropertySource [name='classpath:/irving.properties']]]
+2019-08-02 17:39:28.644 [main] INFO  com.irving.A_Application -No active profile set, falling back to default profiles: default
+2019-08-02 17:39:28.669 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext -Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4a4f319d: startup date [Fri Aug 02 17:39:28 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@57d6ac42
+2019-08-02 17:39:30.451 [main] INFO  o.s.cloud.context.scope.GenericScope -BeanFactory id=bc40b41e-67c2-3f4a-aaa7-4ef94a0f44fa
+2019-08-02 17:39:30.483 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor -JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-08-02 17:39:30.625 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'org.springframework.cloud.sleuth.instrument.async.AsyncDefaultAutoConfiguration$DefaultAsyncConfigurerSupport' of type [org.springframework.cloud.sleuth.instrument.async.AsyncDefaultAutoConfiguration$DefaultAsyncConfigurerSupport$$EnhancerBySpringCGLIB$$e0c9b7b8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 17:39:31.193 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker -Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$bfa21cf2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 17:39:32.228 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat initialized with port(s): 7074 (http)
+2019-08-02 17:39:32.256 [main] INFO  o.a.catalina.core.StandardService -Starting service Tomcat
+2019-08-02 17:39:32.262 [main] INFO  o.a.catalina.core.StandardEngine -Starting Servlet Engine: Apache Tomcat/8.5.11
+2019-08-02 17:39:32.569 [localhost-startStop-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-08-02 17:39:32.572 [localhost-startStop-1] INFO  o.s.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 3904 ms
+2019-08-02 17:39:33.688 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'metricsFilter' to: [/*]
+2019-08-02 17:39:33.694 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-08-02 17:39:33.694 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'traceFilter' to: [/*]
+2019-08-02 17:39:33.694 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-08-02 17:39:33.695 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-08-02 17:39:33.699 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'requestContextFilter' to: [/*]
+2019-08-02 17:39:33.700 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2019-08-02 17:39:33.700 [localhost-startStop-1] INFO  o.s.b.w.s.FilterRegistrationBean -Mapping filter: 'applicationContextIdFilter' to: [/*]
+2019-08-02 17:39:33.700 [localhost-startStop-1] INFO  o.s.b.w.s.ServletRegistrationBean -Mapping servlet: 'dispatcherServlet' to [/]
+2019-08-02 17:39:35.307 [main] INFO  o.s.cloud.commons.util.InetUtils -Cannot determine local hostname
+2019-08-02 17:39:36.830 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -jolokia: No access restrictor found, access to any MBean is allowed
+2019-08-02 17:39:37.268 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter -Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4a4f319d: startup date [Fri Aug 02 17:39:28 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@57d6ac42
+2019-08-02 17:39:37.597 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/add],methods=[GET]}" onto public java.lang.String com.irving.web.ComputeController.add(java.lang.Integer,java.lang.Integer)
+2019-08-02 17:39:37.603 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/testServiceB],methods=[GET]}" onto public java.lang.String com.irving.web.ComputeController.testServiceB(java.lang.Integer,java.lang.Integer)
+2019-08-02 17:39:37.604 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/from]}" onto public java.lang.String com.irving.web.TestController.from()
+2019-08-02 17:39:37.614 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-08-02 17:39:37.615 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping -Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-08-02 17:39:37.797 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-02 17:39:37.797 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-02 17:39:37.906 [main] INFO  o.s.w.s.h.SimpleUrlHandlerMapping -Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-08-02 17:39:39.142 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.147 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.148 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+2019-08-02 17:39:39.150 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/auditevents || /auditevents.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public org.springframework.http.ResponseEntity<?> org.springframework.boot.actuate.endpoint.mvc.AuditEventsMvcEndpoint.findByPrincipalAndAfterAndType(java.lang.String,java.util.Date,java.lang.String)
+2019-08-02 17:39:39.150 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.152 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+2019-08-02 17:39:39.152 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env || /env.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.152 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/refresh || /refresh.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()
+2019-08-02 17:39:39.153 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/restart || /restart.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.context.restart.RestartMvcEndpoint.invoke()
+2019-08-02 17:39:39.158 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.160 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.160 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/pause || /pause.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()
+2019-08-02 17:39:39.163 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/resume || /resume.json],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.endpoint.GenericPostableMvcEndpoint.invoke()
+2019-08-02 17:39:39.163 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env],methods=[POST]}" onto public java.lang.Object org.springframework.cloud.context.environment.EnvironmentManagerMvcEndpoint.value(java.util.Map<java.lang.String, java.lang.String>)
+2019-08-02 17:39:39.164 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/env/reset],methods=[POST]}" onto public java.util.Map<java.lang.String, java.lang.Object> org.springframework.cloud.context.environment.EnvironmentManagerMvcEndpoint.reset()
+2019-08-02 17:39:39.165 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/info || /info.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.165 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.170 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/archaius || /archaius.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.172 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.get(java.lang.String)
+2019-08-02 17:39:39.173 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers/{name:.*}],methods=[POST],consumes=[application/vnd.spring-boot.actuator.v1+json || application/json],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.LoggersMvcEndpoint.set(java.lang.String,java.util.Map<java.lang.String, java.lang.String>)
+2019-08-02 17:39:39.173 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/loggers || /loggers.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.174 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/features || /features.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.176 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/jolokia/**]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.actuate.endpoint.mvc.JolokiaMvcEndpoint.handle(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2019-08-02 17:39:39.177 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/health || /health.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,java.security.Principal)
+2019-08-02 17:39:39.178 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+2019-08-02 17:39:39.178 [main] INFO  o.s.b.a.e.mvc.EndpointHandlerMapping -Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/vnd.spring-boot.actuator.v1+json || application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-08-02 17:39:39.573 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
+2019-08-02 17:39:39.573 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-02 17:39:39.586 [main] WARN  c.n.c.sources.URLConfigurationSource -No URLs will be polled as dynamic configuration sources.
+2019-08-02 17:39:39.587 [main] INFO  c.n.c.sources.URLConfigurationSource -To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-08-02 17:39:39.862 [main] INFO  o.s.s.c.ThreadPoolTaskScheduler -Initializing ExecutorService 
+2019-08-02 17:39:40.161 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Registering beans for JMX exposure on startup
+2019-08-02 17:39:40.179 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'refreshScope' has been autodetected for JMX exposure
+2019-08-02 17:39:40.184 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'environmentManager' has been autodetected for JMX exposure
+2019-08-02 17:39:40.187 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'configurationPropertiesRebinder' has been autodetected for JMX exposure
+2019-08-02 17:39:40.188 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'refreshEndpoint' has been autodetected for JMX exposure
+2019-08-02 17:39:40.189 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Bean with name 'restartEndpoint' has been autodetected for JMX exposure
+2019-08-02 17:39:40.194 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'environmentManager': registering with JMX server as MBean [org.springframework.cloud.context.environment:name=environmentManager,type=EnvironmentManager]
+2019-08-02 17:39:40.243 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'restartEndpoint': registering with JMX server as MBean [org.springframework.cloud.context.restart:name=restartEndpoint,type=RestartEndpoint]
+2019-08-02 17:39:40.257 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'refreshScope': registering with JMX server as MBean [org.springframework.cloud.context.scope.refresh:name=refreshScope,type=RefreshScope]
+2019-08-02 17:39:40.271 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'configurationPropertiesRebinder': registering with JMX server as MBean [org.springframework.cloud.context.properties:name=configurationPropertiesRebinder,context=4a4f319d,type=ConfigurationPropertiesRebinder]
+2019-08-02 17:39:40.280 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter -Located managed bean 'refreshEndpoint': registering with JMX server as MBean [org.springframework.cloud.endpoint:name=refreshEndpoint,type=RefreshEndpoint]
+2019-08-02 17:39:40.667 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -jolokia: No access restrictor found, access to any MBean is allowed
+2019-08-02 17:39:40.673 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=9d53f82e-3172-4e04-b99c-c2abbfc40730, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2019-08-02 17:39:40.674 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2019-08-02 17:39:40.674 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2019-08-02 17:39:40.739 [main] INFO  o.s.c.s.DefaultLifecycleProcessor -Starting beans in phase 0
+2019-08-02 17:39:40.755 [main] INFO  o.s.c.n.eureka.InstanceInfoFactory -Setting initial instance status as: STARTING
+2019-08-02 17:39:41.021 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON encoding codec LegacyJacksonJson
+2019-08-02 17:39:41.029 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using JSON decoding codec LegacyJacksonJson
+2019-08-02 17:39:41.300 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML encoding codec XStreamXml
+2019-08-02 17:39:41.300 [main] INFO  c.n.d.p.DiscoveryJerseyProvider -Using XML decoding codec XStreamXml
+2019-08-02 17:39:41.663 [main] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 17:39:41.946 [main] INFO  c.netflix.discovery.DiscoveryClient -Disable delta property : false
+2019-08-02 17:39:41.951 [main] INFO  c.netflix.discovery.DiscoveryClient -Single vip registry refresh property : null
+2019-08-02 17:39:41.951 [main] INFO  c.netflix.discovery.DiscoveryClient -Force full registry fetch : false
+2019-08-02 17:39:41.951 [main] INFO  c.netflix.discovery.DiscoveryClient -Application is null : false
+2019-08-02 17:39:41.955 [main] INFO  c.netflix.discovery.DiscoveryClient -Registered Applications size is zero : true
+2019-08-02 17:39:41.955 [main] INFO  c.netflix.discovery.DiscoveryClient -Application version is -1: true
+2019-08-02 17:39:41.956 [main] INFO  c.netflix.discovery.DiscoveryClient -Getting all instance registry info from the eureka server
+2019-08-02 17:39:42.241 [main] INFO  c.netflix.discovery.DiscoveryClient -The response status is 200
+2019-08-02 17:39:42.244 [main] INFO  c.netflix.discovery.DiscoveryClient -Starting heartbeat executor: renew interval is: 30
+2019-08-02 17:39:42.249 [main] INFO  c.n.discovery.InstanceInfoReplicator -InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-08-02 17:39:42.253 [main] INFO  c.netflix.discovery.DiscoveryClient -Discovery Client initialized at timestamp 1564738782253 with initial instances count: 3
+2019-08-02 17:39:42.376 [main] INFO  o.s.c.n.e.EurekaDiscoveryClientConfiguration -Registering application service-A with eureka with status UP
+2019-08-02 17:39:42.384 [main] INFO  c.netflix.discovery.DiscoveryClient -Saw local status change event StatusChangeEvent [timestamp=1564738782384, current=UP, previous=STARTING]
+2019-08-02 17:39:42.388 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient -DiscoveryClient_SERVICE-A/localhost:service-A:7074: registering service...
+2019-08-02 17:39:42.484 [DiscoveryClient-InstanceInfoReplicator-0] INFO  c.netflix.discovery.DiscoveryClient -DiscoveryClient_SERVICE-A/localhost:service-A:7074 - registration status: 204
+2019-08-02 17:39:42.642 [main] INFO  o.s.b.c.e.t.TomcatEmbeddedServletContainer -Tomcat started on port(s): 7074 (http)
+2019-08-02 17:39:42.643 [main] INFO  o.s.c.n.e.EurekaDiscoveryClientConfiguration -Updating port to 7074
+2019-08-02 17:39:42.649 [main] INFO  com.irving.A_Application -Started A_Application in 21.786 seconds (JVM running for 36.116)
+2019-08-02 17:39:43.326 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 17:39:44.900 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null
+2019-08-02 17:39:53.386 [http-nio-7074-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] -Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-08-02 17:39:53.392 [http-nio-7074-exec-1] INFO  o.s.web.servlet.DispatcherServlet -FrameworkServlet 'dispatcherServlet': initialization started
+2019-08-02 17:39:53.448 [http-nio-7074-exec-1] INFO  o.s.web.servlet.DispatcherServlet -FrameworkServlet 'dispatcherServlet': initialization completed in 51 ms
+2019-08-02 17:44:41.960 [AsyncResolver-bootstrap-executor-0] INFO  c.n.d.s.r.aws.ConfigClusterResolver -Resolving eureka endpoints via configuration
+2019-08-02 17:44:53.268 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Fetching config from server at: http://localhost:7072/
+2019-08-02 17:44:54.852 [http-nio-7074-exec-9] INFO  o.s.c.c.c.ConfigServicePropertySourceLocator -Located environment: name=irving, profiles=[dev], label=master, version=null, state=null

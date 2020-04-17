@@ -20,7 +20,7 @@ public class HystrixService {
    */
   @HystrixCommand(fallbackMethod = "fallback")
   public String findById(@RequestParam Integer a,@RequestParam Integer b) {
-	  return restTemplate.getForEntity("http://SERVICE-B/add?a="+a+"&b="+b, String.class).getBody();
+	  return restTemplate.getForEntity("http://RIBBON/add?a="+a+"&b="+b, String.class).getBody();
   }
 
   /**
