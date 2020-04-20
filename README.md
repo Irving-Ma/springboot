@@ -17,7 +17,7 @@ spring-cloud 微服务组件demo
 <td>zuul</td>  <td>动态路由器</td>  <td>7073</td>
 </tr>
 <tr>
-<td>service-A</td>  <td>A服务，用来测试服务间调用与路由</td>  <td>7074</td>
+<td>service-A</td>  <td>A服务，用来测试服务间调用与路由，策略模式+工厂模式实现</td>  <td>7074</td>
 </tr>
 <tr>
 <td>service-B</td>  <td>B服务，整合Mybatis、PageHelper、Redis，整合接口限速方案，可选google Guava RateLimiter与自实现</td>  <td>7075</td>
