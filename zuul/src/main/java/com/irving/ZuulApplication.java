@@ -1,5 +1,6 @@
 package com.irving;
 
+import com.marcosbarbero.zuul.filters.pre.ratelimit.RateLimitFilter;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.cloud.client.SpringCloudApplication;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
@@ -16,22 +17,22 @@ public class ZuulApplication {
 		new SpringApplicationBuilder(ZuulApplication.class).web(true).run(args);
 	}
 
-	@Bean
+	/*@Bean
 	public AccessFilter accessFilter() {
 		return new AccessFilter();
-	}
+	}*/
 	
-	@Bean
+	/*@Bean
 	public RateLimitFilter rateLimiterFilter() {
 		return new RateLimitFilter();
-	}
+	}*/
 	
 	@Bean
 	public ResultFilter resultFilter() {
 		return new ResultFilter();
 	}
 	
-	@Bean
+	/*@Bean
 	public UuidFilter uuidFilter() {
 		return new UuidFilter();
 	}
@@ -39,7 +40,7 @@ public class ZuulApplication {
 	@Bean
 	public ValidateFilter validateFilter() {
 		return new ValidateFilter();
-	}
+	}*/
 	
 	@Bean
 	public ErrorFilter errorFilter() {

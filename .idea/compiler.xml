@@ -10,13 +10,15 @@
         <module name="config-server" />
         <module name="sleuth" />
         <module name="feign" />
+        <module name="turbine" />
         <module name="service-admin" />
+        <module name="zuul" />
         <module name="eureka-sever" />
         <module name="service-B2" />
-        <module name="service-web" />
+        <module name="hystrix-feign" />
         <module name="hystrix-ribbon" />
         <module name="hystrix-dashboard" />
-        <module name="hystrix-feign" />
+        <module name="service-web" />
         <module name="service-B" />
         <module name="service-A" />
       </profile>

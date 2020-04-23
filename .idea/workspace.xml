@@ -1,23 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3409838b-5827-4642-9d5e-42527505d563" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/service-A/src/main/java/com/irving/common/factory/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-A/src/main/java/com/irving/common/factory/AreaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-A/src/main/java/com/irving/common/factory/BeijingArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-A/src/main/java/com/irving/common/factory/JiangsuArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-A/src/main/java/com/irving/common/factory/OrdinaryArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-A/src/main/java/com/irving/common/factory/ShannxiArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-A/src/main/java/com/irving/common/factory/TianjinArea.java" afterDir="false" />
+    <list default="true" id="3409838b-5827-4642-9d5e-42527505d563" name="Default" comment="使用策略模式+工厂模式，实现不统地区执行不同">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/eureka-server-info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/eureka-server-info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/ribbon-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/ribbon-error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/ribbon-info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/ribbon-info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/service-A-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/service-A-error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/service-A-info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/service-A-info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/service-B-info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/service-B-info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/service-B2-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/service-B2-error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/service-B2-info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/service-B2-info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka-server-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka-server-info-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka-server-info-20190802.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka-server-info-20190811.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka-server-info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/feign-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/feign-info-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/feign-info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/hystrix-feign-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/hystrix-feign-info-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/hystrix-feign-info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/ribbon-error-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/ribbon-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/ribbon-info-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/ribbon-info-20190802.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/ribbon-info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-A-error-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-A-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-A-info-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-A-info-20190802.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-A-info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-B-error-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-B-error-20190802.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-B-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-B-info-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-B-info-20190802.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-B-info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-B2-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-B2-info-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-B2-info-20190802.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-B2-info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-Blockchain-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/service-Blockchain-info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sleuth-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sleuth-info-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sleuth-info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/turbine-error-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/turbine-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/turbine-info-20190801.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/turbine-info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-A/src/main/java/com/irving/common/factory/BeijingArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-A/src/main/java/com/irving/common/factory/BeijingArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-A/src/main/java/com/irving/web/AreaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-A/src/main/java/com/irving/web/AreaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turbine/turbine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/turbine/turbine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/src/main/java/com/irving/ZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/java/com/irving/ZuulApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/src/main/java/com/irving/filter/ErrorFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/java/com/irving/filter/ErrorFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/src/main/java/com/irving/filter/FirstFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/java/com/irving/filter/FirstFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/src/main/java/com/irving/filter/ResultFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/java/com/irving/filter/ResultFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/src/main/java/com/irving/filter/SecondFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/java/com/irving/filter/SecondFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/zuul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/zuul.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,10 +127,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.irving.web.insurance" />
       <recent name="com.irving.web" />
       <recent name="com.irving.common.factory" />
       <recent name="com.irving.controller" />
@@ -128,6 +168,20 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.A_Application">
+    <configuration name="AreaController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.irving.web.AreaController" />
+      <module name="service-A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.irving.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -269,6 +323,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.AreaController" />
       <item itemvalue="Spring Boot.ConfigApplication" />
       <item itemvalue="Spring Boot.HystrixDashboardApplication" />
       <item itemvalue="Spring Boot.FeignApplication" />
@@ -288,6 +343,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AreaController" />
         <item itemvalue="Spring Boot.WebApplication" />
       </list>
     </recent_temporary>
@@ -316,8 +372,24 @@
       <workItem from="1573009293200" duration="5731000" />
       <workItem from="1573698739845" duration="1286000" />
       <workItem from="1587102639219" duration="10330000" />
-      <workItem from="1587361852819" duration="4567000" />
+      <workItem from="1587361852819" duration="20185000" />
+      <workItem from="1587632962840" duration="3493000" />
     </task>
+    <task id="LOCAL-00001" summary="使用策略模式+工厂模式，实现不统地区执行不同的地区流程">
+      <created>1587372501425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587372501425</updated>
+    </task>
+    <task id="LOCAL-00002" summary="文档修改">
+      <created>1587372612924</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587372612924</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +408,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="使用策略模式+工厂模式，实现不统地区执行不同的地区流程" />
+    <MESSAGE value="文档修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="文档修改" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -347,11 +424,6 @@
           <url>file://$PROJECT_DIR$/service-B2/src/main/java/com/irving/web/ComputeController.java</url>
           <line>26</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/service-A/src/main/java/com/irving/web/AreaController.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

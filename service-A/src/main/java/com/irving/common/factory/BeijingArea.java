@@ -1,5 +1,12 @@
 package com.irving.common.factory;
 
+import com.irving.web.insurance.Car;
+import com.irving.web.insurance.Insurance;
+import com.irving.web.insurance.Pay;
+
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * @program: com.irving.common.factory
  * @author: Ma Xiangxiang
@@ -13,7 +20,15 @@ public class BeijingArea implements Area{
      */
     @Override
     public void excuteAreaProcess() {
-        System.out.println("执行北京地区流程");
+        //车型查询
+        Map<String,Object> temp0 = Car.getInstance().NewCarFiling(new HashMap<>());
+        if(null != temp0 && !"".equals(temp0.get("message"))){
+            Map<String,Object> temp1 = Insurance.getInstance().queryCarType(new HashMap<>());
+            if(null != temp1 && !"".equals(temp1.get("message"))){
+                //保费计算
+                Map<String,Object> temp2 = Pay.getInstance().requestPay(new HashMap<>());
+            }
+        }
     }
 
     /**
